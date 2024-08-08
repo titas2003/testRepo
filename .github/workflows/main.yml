@@ -21,4 +21,4 @@ jobs:
 
     - name: Run Hello World script
       run: |
-        python client_config.py
+        python client_conf.py
